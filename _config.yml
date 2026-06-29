@@ -1,0 +1,132 @@
+---
+title: Proceedings of Machine Learning Research
+booktitle: Proceedings of the 7th Conference on Health, Inference, and Learning
+shortname: CHIL
+conferenceurl: https://chil.ahli.cc/
+publisher: PMLR
+series: Proceedings of Machine Learning Research
+volume: '333'
+year: '2026'
+start: &1 2026-06-29
+end: 2026-06-30
+published: 2026-06-29
+layout: proceedings
+issn: 2640-3498
+id: chil2026
+month: 0
+tex_title: Proceedings of the 7th Conference on Health, Inference, and Learning
+cycles: false
+bibtex_editor: Healey, Elizabeth and Fries, Jason and Pollard, Tom and Tang, Shengpu
+  and Zink, Anna and Hartvigsen, Tom and Agrawal, Monica and Finlayson, Sam and Glicksberg,
+  Benjamin and Beaulieu-Jones, Brett and Wang, Kai and Fontalvo, Daseyra and Sarker,
+  Tasmie and Chen, Irene and Alsentzer, Emily
+editor:
+- given: Elizabeth
+  family: Healey
+- given: Jason
+  family: Fries
+- given: Tom
+  family: Pollard
+- given: Shengpu
+  family: Tang
+- given: Anna
+  family: Zink
+- given: Tom
+  family: Hartvigsen
+- given: Monica
+  family: Agrawal
+- given: Sam
+  family: Finlayson
+- given: Benjamin
+  family: Glicksberg
+- given: Brett
+  family: Beaulieu-Jones
+- given: Kai
+  family: Wang
+- given: Daseyra
+  family: Fontalvo
+- given: Tasmie
+  family: Sarker
+- given: Irene
+  family: Chen
+- given: Emily
+  family: Alsentzer
+description: |
+  Proceedings of the 7th Conference on Health, Inference, and Learning
+    Held in Pauley Ballroom, Martin Luther King Jr. Building at UC Berkeley, Berkeley, USA on 29-30 June 2026
+
+  Published as Volume 333 by the Proceedings of Machine Learning Research on 29 June 2026.
+
+  Volume Edited by:
+    Elizabeth Healey
+    Jason Fries
+    Tom Pollard
+    Shengpu Tang
+    Anna Zink
+    Tom Hartvigsen
+    Monica Agrawal
+    Sam Finlayson
+    Benjamin Glicksberg
+    Brett Beaulieu-Jones
+    Kai Wang
+    Daseyra Fontalvo
+    Tasmie Sarker
+    Irene Chen
+    Emily Alsentzer
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 29--30 Jun
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v333"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v333
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v333
+email: ''
+conference:
+  name: Conference on Health, Inference, and Learning
+  url:
+  location: Pauley Ballroom, Martin Luther King Jr. Building at UC Berkeley, Berkeley,
+    USA
+  dates:
+  - *1
+  - 2026-06-30
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: v333_clean.bib
+# Site settings
+# Original source:  v333_clean.bib
