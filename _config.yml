@@ -113,7 +113,7 @@ conference:
   location: "Seattle Children's Research Institute, Seattle"
     USA
   dates:
-  - *1
+  - 2026-06-29
   - 2026-06-30
 analytics:
   google:
