@@ -53,7 +53,7 @@ editor:
   family: Alsentzer
 description: |
   Proceedings of the 7th Conference on Health, Inference, and Learning
-    Held in Pauley Ballroom, Martin Luther King Jr. Building at UC Berkeley, Berkeley, USA on 29-30 June 2026
+    Held in Seattle Children's Research Institute, Seattle, USA on 29-30 June 2026
 
   Published as Volume 333 by the Proceedings of Machine Learning Research on 29 June 2026.
 
@@ -110,7 +110,7 @@ email: ''
 conference:
   name: Conference on Health, Inference, and Learning
   url:
-  location: Pauley Ballroom, Martin Luther King Jr. Building at UC Berkeley, Berkeley,
+  location: "Seattle Children's Research Institute, Seattle",
     USA
   dates:
   - *1
